@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WordMaster Challenge</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="user-info">
+        <h1>Welcome to WordMaster Challenge</h1>
+        <p>Enter your name to start the game:</p>
+        <input type="text" id="username" placeholder="Your Name">
+        <button onclick="startGame()">Start Game</button>
+    </div>
+
+    <div id="game-container" class="hidden">
+        <h1>WordMaster Challenge</h1>
+        <p id="player-name"></p>
+        <p>Select a difficulty level:</p>
+        <div class="level-buttons">
+            <button onclick="chooseLevel('easy')">Easy</button>
+            <button onclick="chooseLevel('medium')">Medium</button>
+            <button onclick="chooseLevel('hard')">Hard</button>
+        </div>
+        
+        <div id="game-area" class="hidden">
+            <p id="hint"></p>
+            <p id="word-display"></p>
+            <input type="text" id="user-input" placeholder="Enter your guess">
+            <button id="submit-btn">Submit</button>
+            <p id="message"></p>
+            <p>Lives: <span id="lives">3</span> | Score: <span id="score">0</span></p>
+        </div>
+    </div>
+
+
+    <div id="end-screen" class="hidden">
+        <h1>Game Over!</h1>
+        <p id="final-message"></p>
+        <p>Score: <span id="end-score"></span></p>
+        <button onclick="restartGame()">Play Again</button>
+    </div>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>
