@@ -3,7 +3,7 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
-    background: linear-gradient(45deg, #a08586a1, #655f5d);
+    background: linear-gradient(45deg, #0f0f0fa1, #161515);
     transition: background 1s ease-in-out;
 }
 
@@ -12,11 +12,11 @@ body {
 }
 
 #user-info, #game-container {
-    width: 50%;
-    margin: 5% auto;
+    width: 30%;  
+    margin: 15% auto;
     padding: 20px;
-    background: white;
-    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    background: rgb(244, 241, 241);
+    box-shadow: 0px 0px 15px rgba(190, 27, 27, 0.2);
     border-radius: 20px;
     transition: transform 0.3s ease-in-out;
 }
@@ -26,8 +26,8 @@ h1 {
 }
 
 button {
-    background: #7c151e;
-    color: white;
+    background: #141212;
+    color: rgb(237, 227, 228);
     border: none;
     padding: 12px 20px;
     font-size: 18px;
@@ -38,14 +38,14 @@ button {
 }
 
 button:hover {
-    background: #a18272;
+    background: #efe6e6;
     transform: scale(1.1);
 }
 
 input {
     padding: 10px;
     font-size: 16px;
-    border: 2px solid #78171f;
+    border: 2px solid #7c6f72;
     border-radius: 8px;
     outline: none;
 }
@@ -55,17 +55,18 @@ input {
 }
 
 p {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 #end-screen {
-    width: 50%;
-    margin: 5% auto;
-    padding: 20px;
-    background: white;
+    width: 30%;
+    margin: 15% auto;
+    padding: 30px;
+    background: rgb(237, 232, 232);
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
-    border-radius: 20px;
+    border-radius: 30px;
     text-align: center;
+   
 }
 @media only screen and (max-width: 768px) {
     #user-info,
