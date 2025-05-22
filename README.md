@@ -34,21 +34,18 @@ An interactive browser-based word puzzle game designed using **HTML**, **CSS**, 
 
 ## 📸 Screenshots
 
-![Screenshot 2025-04-30 105525](https://github.com/user-attachments/assets/78a6601f-1993-432f-a662-79c0d817bc2c)
+![Screenshot 2025-05-22 222154](https://github.com/user-attachments/assets/76af6470-e7c1-45bc-bc3f-c88f4eedca0b)
 
-![Screenshot 2025-04-30 105545](https://github.com/user-attachments/assets/86512c3e-da45-46b1-aafd-47506a7f45db)
+![Screenshot 2025-05-22 220946](https://github.com/user-attachments/assets/40ed1acb-6671-48e0-9b02-e98a8a71e152)
 
-![Screenshot 2025-04-30 105603](https://github.com/user-attachments/assets/a9df8f3b-82fa-4c6e-9816-9c824a79e8a2)
+![Screenshot 2025-05-22 222024](https://github.com/user-attachments/assets/54acf964-4ccb-457f-a3ac-432de1d3036b)
 
-![Screenshot 2025-04-30 105642](https://github.com/user-attachments/assets/666059c7-f237-469f-8a3f-af58ebc3f02c)
+![Screenshot 2025-05-22 221009](https://github.com/user-attachments/assets/6582f451-2239-4320-b613-a66727a0b9fb)
 
-![Screenshot 2025-04-30 105706](https://github.com/user-attachments/assets/744e2a80-a8de-4f91-b070-972138a6a84e)
+![Screenshot 2025-05-22 221107](https://github.com/user-attachments/assets/e64d1385-22be-49f2-96ed-8755c6c90f2a)
 
-![Screenshot 2025-04-30 105722](https://github.com/user-attachments/assets/9a18d2c6-4405-4c5e-abfe-b8510e8fe48c)
+![Screenshot 2025-05-22 221150](https://github.com/user-attachments/assets/49ac5d7f-15ad-468b-8e64-fe7746c57381)
 
-![Screenshot 2025-04-30 105737](https://github.com/user-attachments/assets/00c5c976-f1a7-4dab-a805-ad945767e5b3)
-
-
-
+![Screenshot 2025-05-22 221205](https://github.com/user-attachments/assets/51d9487e-dc8d-439e-b663-1eb30081caa1)
 
 
