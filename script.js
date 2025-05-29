@@ -104,7 +104,7 @@ function maskWord(word) {
 document.getElementById("submit-btn").addEventListener("click", () => {
     let userGuess = document.getElementById("user-input").value.toUpperCase();
     if (userGuess === selectedWord) {
-        score += 1;
+        score += 10;
         document.getElementById("message").innerText = "Correct! 🎉";
         document.getElementById("score").innerText = score;
         startRound("easy");
@@ -118,7 +118,7 @@ document.getElementById("submit-btn").addEventListener("click", () => {
 
             document.getElementById("end-score").innerText = score;
 
-            if (score >= 1) {
+            if (score >= 10) {
                 document.getElementById("final-message").innerText = `Well played, ${username}!`;
             } else {
                 document.getElementById("final-message").innerText = `Bad luck, ${username}! Try again next time.`;
