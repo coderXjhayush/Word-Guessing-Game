@@ -40,7 +40,7 @@ An interactive browser-based word puzzle game designed using **HTML**, **CSS**, 
 
 ![Screenshot 2025-06-16 185857](https://github.com/user-attachments/assets/45591b46-ebc1-496d-8b61-6e6e922491b4)
 
-![Screenshot 2025-06-16 190047](https://github.com/user-attachments/assets/2706471c-143c-4a38-a993-0b2d4d6c1348)
+![Screenshot 2025-06-16 190846](https://github.com/user-attachments/assets/0af3d204-92f3-4bdd-8591-3689e845138d)
 
 ![Screenshot 2025-06-16 190115](https://github.com/user-attachments/assets/8176ca86-8a5d-4a29-ac53-4ef6c122a451)
 
